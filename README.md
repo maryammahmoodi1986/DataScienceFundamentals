@@ -1,5 +1,3 @@
-# DataScienceFundamentals
-
 # Data Science Fundamentals Exercises
 
 Hello! I am a data science student at Allameh University, and this repository contains my exercises for the Data Science Fundamentals course. This course is taught by Dr. Farzad Eskandari.
@@ -18,8 +16,3 @@ This repository includes the following exercises:
 •  [**Proof_of_Model_Error_Distribution_in_Binomial_Distribution.ipynb**](https://www.bing.com/search?form=SKPBOT&q=Proof_of_Model_Error_Distribution_in_Binomial_Distribution.ipynb): In this notebook, the error distribution of the model in a binomial distribution is proven.
 
 
-## About Me
-
-I am a data science student at Allameh University, and these exercises are for the Data Science Fundamentals course taught by Dr. Farzad Eskandari. I will be posting the course-related exercises here.
-
-If you have any questions or need further explanations, feel free to reach out!
