@@ -5,14 +5,6 @@ Hello! I am a data science student at Allameh University, and this repository co
 ## Repository Contents
 
 This repository includes the following exercises:
+I will complete this repository later. Please stay tuned for more updates.
 
-1. [**LinearRegressionCoefficients.ipynb**](https://www.bing.com/search?form=SKPBOT&q=LinearRegressionCoefficients.ipynb): Calculation of linear regression coefficients.
-2. [**Proof_of_Model_Error_Distribution_in_Binomial_Distribution.ipynb**](https://www.bing.com/search?form=SKPBOT&q=Proof_of_Model_Error_Distribution_in_Binomial_Distribution.ipynb): Proof of model error distribution in binomial distribution.
-
-## Descriptions
-
-•  [**LinearRegressionCoefficients.ipynb**](https://www.bing.com/search?form=SKPBOT&q=LinearRegressionCoefficients.ipynb): In this notebook, the coefficients of linear regression are calculated using various methods.
-
-•  [**Proof_of_Model_Error_Distribution_in_Binomial_Distribution.ipynb**](https://www.bing.com/search?form=SKPBOT&q=Proof_of_Model_Error_Distribution_in_Binomial_Distribution.ipynb): In this notebook, the error distribution of the model in a binomial distribution is proven.
-
-
+Thank you for your patience!
